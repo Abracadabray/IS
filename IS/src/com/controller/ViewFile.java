@@ -9,7 +9,6 @@ import java.io.IOException;
  * * <p>Title:ViewFile </p>
    * <p>Description: </p>
    * <p>Company: </p> 
-   * @author Hy 
    * @date 2018年4月21日 下午9:49:57
  */
 
